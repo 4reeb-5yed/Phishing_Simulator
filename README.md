@@ -21,6 +21,35 @@
 
 ---
 
+---
+
+## Interface Preview
+
+### Dashboard
+
+![Dashboard Preview](assets/screenshots/dashboard-preview.png)
+
+<br>
+
+### AI Email Generator
+
+![Email Generator Preview](assets/screenshots/email-generator-preview.png)
+
+<br>
+
+### Campaign Management
+
+![Campaigns Preview](assets/screenshots/campaigns-preview.png)
+
+<br>
+
+### Education Hub
+
+![Education Hub Preview](assets/screenshots/education-hub-preview.png)
+
+---
+
+
 ## Table of Contents
 
 1. [Project Overview](#1-project-overview)
