@@ -4,7 +4,8 @@
 import axios from 'axios';
 
 const apiClient = axios.create({
-  baseURL: '/api',
+  // Looks for production URL first, falls back to local proxy path
+  baseURL: import.meta.env.VITE_API_URL || '/api',
   timeout: 60000, // 60s for AI generation
   headers: { 'Content-Type': 'application/json' },
 });
